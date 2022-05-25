@@ -4,3 +4,5 @@ Madrid
 Rome
 Bonn
 Lisbonne
+Londres
+Bruxelles
