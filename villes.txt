@@ -2,3 +2,4 @@ Amsterdam
 Paris
 Madrid
 Rome
+Bonn
