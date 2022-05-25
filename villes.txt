@@ -7,3 +7,5 @@ Lisbonne
 Londres
 Bruxelles
 Prague
+Budapest
+Bucarest
